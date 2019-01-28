@@ -11,6 +11,6 @@ marshmallow==2.15.3
 python-dateutil==2.7.3
 pytz==2018.4
 requests==2.20.0
-six==1.11.0
+six==1.12.0
 webargs==3.0.0
 Werkzeug==0.14.1
