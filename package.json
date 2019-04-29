@@ -8,7 +8,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "express-validator": "^5.3.1",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.4.1"
   },
   "scripts": {
     "build": "tsc",
